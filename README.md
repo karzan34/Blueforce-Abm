@@ -5,6 +5,7 @@
 apt update && apt upgrade
 apt install git
 apt install python2
+rm -rf Blueforce-Abm
 git clone https://github.com/Tech-abm/Blueforce-Abm
 cd Blueforce-Abm
 python2 ab.py
