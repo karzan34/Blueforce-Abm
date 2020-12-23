@@ -14,6 +14,19 @@ python2 ab.py
 Username > Abm
 Password > Abm
 ```
+# Available On 
+```
+Termux 
+Parrott os
+Kali linux 
+Ubuntu 
+Red had
+```
+# Real Coder 
+```
+Tech Abm (Abdul Basit Minhas) 
+```
+
 </a>
 <p align="center">
 <a href="https://fb.com/Techabm"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
