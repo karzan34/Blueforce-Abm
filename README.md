@@ -7,7 +7,8 @@
 ```
 apt update && apt upgrade
 apt install git
-apt install python2
+apt install python2 -y
+apt install python3 -y
 rm -rf Blueforce-Abm
 git clone https://github.com/Tech-abm/Blueforce-Abm
 cd Blueforce-Abm
